@@ -1,0 +1,275 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(228, 228, 228, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:760px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u7614_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:361px;
+  height:46px;
+}
+#u7614 {
+  position:absolute;
+  left:400px;
+  top:0px;
+  width:360px;
+  height:45px;
+  font-size:15px;
+}
+#u7615 {
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:356px;
+  word-wrap:break-word;
+}
+#u7616_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:26px;
+  height:26px;
+}
+#u7616 {
+  position:absolute;
+  left:410px;
+  top:10px;
+  width:25px;
+  height:25px;
+  font-family:'FontAwesome';
+  font-weight:400;
+  font-style:normal;
+  font-size:28px;
+  color:#333333;
+  text-align:left;
+}
+#u7617 {
+  position:absolute;
+  left:0px;
+  top:-2px;
+  width:25px;
+  word-wrap:break-word;
+}
+#u7618_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:361px;
+  height:561px;
+}
+#u7618 {
+  position:absolute;
+  left:400px;
+  top:55px;
+  width:360px;
+  height:560px;
+}
+#u7619 {
+  position:absolute;
+  left:2px;
+  top:272px;
+  width:356px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7620_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:361px;
+  height:11px;
+}
+#u7620 {
+  position:absolute;
+  left:400px;
+  top:45px;
+  width:360px;
+  height:10px;
+}
+#u7621 {
+  position:absolute;
+  left:2px;
+  top:-3px;
+  width:356px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7622_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:21px;
+}
+#u7622 {
+  position:absolute;
+  left:420px;
+  top:75px;
+  width:200px;
+  height:20px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+}
+#u7623 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  word-wrap:break-word;
+}
+#u7624_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:147px;
+  height:21px;
+}
+#u7624 {
+  position:absolute;
+  left:420px;
+  top:105px;
+  width:146px;
+  height:20px;
+  font-size:12px;
+  color:#999999;
+}
+#u7625 {
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:146px;
+  white-space:nowrap;
+}
+#u7626_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:321px;
+  height:129px;
+}
+#u7626 {
+  position:absolute;
+  left:420px;
+  top:135px;
+  width:320px;
+  height:128px;
+  color:#666666;
+}
+#u7627 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  word-wrap:break-word;
+}
+#u7628_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:321px;
+  height:129px;
+}
+#u7628 {
+  position:absolute;
+  left:420px;
+  top:285px;
+  width:320px;
+  height:128px;
+  color:#666666;
+}
+#u7629 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  word-wrap:break-word;
+}
+#u7630_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:445px;
+}
+#u7630 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:445px;
+}
+#u7631 {
+  position:absolute;
+  left:2px;
+  top:214px;
+  width:356px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7632_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:10px;
+}
+#u7632 {
+  position:absolute;
+  left:0px;
+  top:605px;
+  width:360px;
+  height:10px;
+}
+#u7633 {
+  position:absolute;
+  left:2px;
+  top:-3px;
+  width:356px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7634_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:160px;
+}
+#u7634 {
+  position:absolute;
+  left:0px;
+  top:445px;
+  width:360px;
+  height:160px;
+}
+#u7635 {
+  position:absolute;
+  left:2px;
+  top:72px;
+  width:356px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7636 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:25px;
+  height:25px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
